@@ -1,12 +1,13 @@
 <h1 align="center">💫 About Me:</h1>
 <h3 align="center">Hi 👋, I'm adenyr</h3>
 <h3 align="center">Adminsys, passionate about self-hosting and digital rights</h3><br>
-<br>- 🔭 I’m currently working on [become.sh](https://wiki.become.sh)<br><br>- 🌱 I’m currently learning **CCNA && OSL, LPIC-1**<br>
-<br>- 📝 I regularly write articles, in french, on [https://news.become.sh](https://news.become.sh)<br>
+<br>- 🔭 I’m currently working on <a href="https://wiki.become.sh">become.sh</a><br>
+<br>- 🌱 I’m currently learning *CCNA && OSL, LPIC-1*<br>
+<br>- 📝 I regularly write articles, in french, on <a href="https://wiki.become.sh](https://news.become.sh)">become.sh</a><br>
 <br>- 💬 Ask me about **self-hosted apps :)**<br>
 <br>- 📫 How to reach me **adenyr[@]proton.me**<br>
-<br>- 📄 Know about my experiences, on linkedin [https://www.linkedin.com/in/adenyr/](https://www.linkedin.com/in/adenyr/)<br>
-<br>- ⚡ Fun fact **I hate ads. Really.**<br><br><p align="left"></p>
+<br>- 📄 Know about my experiences, on <a href="https://www.linkedin.com/in/adenyr/">linkedin</a><br>
+<br>- ⚡ Fun fact : **I hate ads. Really.**<br><br><p align="left"></p>
 
 ---
 
