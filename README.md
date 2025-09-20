@@ -1,44 +1,101 @@
-<h1 align="center">💫 About Me:</h1>
-<h3 align="center">Hi 👋, I'm adenyr</h3>
-<h3 align="center">Adminsys, passionate about self-hosting and digital rights</h3><br>
-<br>- 🔭 I’m currently working on <a href="https://wiki.become.sh">become.sh</a><br>
-<br>- 🌱 I’m currently learning *CCNA && OSL, LPIC-1*<br>
-<br>- 📝 I regularly write articles, in french, on <a href="https://wiki.become.sh](https://news.become.sh)">become.sh</a><br>
-<br>- 💬 Ask me about **self-hosted apps :)**<br>
-<br>- 📫 How to reach me **adenyr[@]proton.me**<br>
-<br>- 📄 Know about my experiences, on <a href="https://www.linkedin.com/in/adenyr/">linkedin</a><br>
-<br>- ⚡ Fun fact : **I hate ads. Really.**<br><br><p align="left"></p>
+# 🔧 SysAdmin | Infrastructure Virtualisée & Réseaux
 
----
 
-<h3 align="center"> 💻 Tech Stack:</h3>
+                                                    _                            
+                                                   | |                           
+                                           __ _  __| | ___ _ __  _   _ _ __ _ __ 
+                                          / _` |/ _` |/ _ \ '_ \| | | | '__| '__|
+                                         | (_| | (_| |  __/ | | | |_| | |  | |   
+                                          \__,_|\__,_|\___|_| |_|\__, |_|  |_|   
+                                                                  __/ |          
+                                                                 |___/           
+                  
 
-<p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a><a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a></p>
+## 🚀 À propos
+Administrateur système passionné par l'infrastructure, du hardware au déploiement de services finaux. 
+J'ai un kink pour la protection des données et l'opensource.
 
-<h3 align="center"> 🌐 Socials:</h3>
+## 💻 Stack Technique
 
-<p align="center">
-<a href="https://discord.gg/GFcA9feE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="GFcA9feE" height="30" width="40" /></a>
-</p>
+### 🏗️ Infrastructure & Virtualisation
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![CEPH](https://img.shields.io/badge/CEPH-EF5C55?style=for-the-badge&logo=ceph&logoColor=white)
 
-<h3 align="center">Support me : <3</h3>
-<p align="center"><a href="https://ko-fi.com/adenyr"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="adenyr" /></a></p>
-  
----
-  
-<h3 align="center">📊 GitHub Stats:</h3>
+### 🌐 Réseau & Sécurité
+![OpnSense](https://img.shields.io/badge/OpnSense-D94F00?style=for-the-badge&logo=opnsense&logoColor=white)
+![XDR](https://img.shields.io/badge/XDR-41BDF5?style=for-the-badge)
+![Monitoring](https://img.shields.io/badge/Monito-0071C5?style=for-the-badge&logo=grafana&logoColor=white)
 
-<p align="center">
+### 🛠️ DevOps & Automation
+
+![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-3776AB?style=for-the-badge&logo=ansible&logoColor=white)
+![Git](https://img.shields.io/badge/CI/CD-4EAA25?style=for-the-badge&logo=git&logoColor=white)
+
+
+## 📊 Statistiques GitHub
+
+<div align="center">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adenyrr&theme=github_dark"/>
-</p>
-<p align = "center">
-  
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adenyrr&theme=github_dark"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adenyrr&show_icons=true&theme=transparent&layout=donut"/>
-<p align="center">
-  
-  [![](https://visitcount.itsvg.in/api?id=adenyrr&icon=0&color=0)](https://visitcount.itsvg.in)
 
-</p>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adenyrr&theme=dark&hide_border=true)
+
+</div>
+
+## 🎯 Certifications && études
+
+```yaml
+Etudes :
+  - Chimie industrielle: Controle qualité, formulation, suivi et applications des normes techniques
+  - Adminsys (en cours): Hardware, réseau (Cisco) puis infra et virtualisation (vmware)
+
+Badges && Certifications :
+  - IT Essentials (CISCO)
+  - Linux Essentials (Cisco)
+
+  En cours : LFCA + KCNA (Linux Foundation)
+
+
+```
+
+## 🔥 Projets Récents
+
+### 🏠 Infrastructure Domestique
+- **Cluster Proxmox** avec stockage CEPH distribué : 3 nodes - 32 CPU / 80 GB DDR
+- **Routeur full open-source** sur NIC Intel 4x2.5G : Opensense VM, Wazuh & Suricata VM, Adguard LXC, Speedtest LXC, Proxy LXC (nginx, crowdsec, dbip, fail2ban, anubis)
+- **Stack *PROD***: docker, debian, samba, git ... ([liste](https://github.com/adenyrr/HomeLab))
+- **Stack *LAB***: kubernetes, podman, ArgoCD ... 
+
+### 🚀 Autres
+- **docs.become.sh** - Publication de tutoriels sur l'auto-hébergement
+- **blog.soon.asap** - Je donne mon avis sur le numérique et ce qu'il devient
+- **Mise en place d'une infrastructure complète d'IaaC** - Gestion de tout le cluster, et de ses environnements via des répertoires git.
+
+
+
+## 📡 Connectons-nous
+
+```bash
+# Trouvez-moi sur :
+git clone https://github.com/adenyrr
+docker run --rm -it alpine:latest sh -c "echo 'J'ai discord aussi :3'"
+```
+
+---
+
+<div align="center">
+
+**🐧 "/home sweet /home" 🏠**
+
+*Made with ❤️ and lot of ☕️ :D*
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=adenyrr.adenyrr)
+![Profile Views](https://komarev.com/ghpvc/?username=adenyrr&color=brightgreen&style=flat-square)
+
+</div>
