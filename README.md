@@ -86,7 +86,7 @@ Badges && Certifications :
 ```bash
 # Trouvez-moi sur :
 git clone https://github.com/adenyrr
-docker run --rm -it alpine:latest sh -c "echo 'J'ai discord aussi :3'"
+docker run --rm -it alpine:latest sh -c "echo \"J'ai discord aussi :3\""
 ```
 
 ---
