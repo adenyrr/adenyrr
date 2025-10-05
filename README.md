@@ -50,14 +50,16 @@ J'ai un kink pour la protection des données et l'opensource.
 
 ## 🎯 Certifications && études
 
+Mes profils [credly](https://www.credly.com/users/adenyrr) et [linkedin](https://be.linkedin.com/in/mvanhede) sont ici.
+
 ```yaml
 Etudes :
   - Chimie industrielle: Controle qualité, formulation, suivi et applications des normes techniques
-  - Adminsys (en cours): Hardware, réseau (Cisco) puis infra et virtualisation (vmware)
+  - Adminsys (en cours): Hardware, réseau (cisco) puis infra et virtualisation (vmware)
 
 Badges && Certifications :
-  - IT Essentials (CISCO)
-  - Linux Essentials (Cisco)
+  - IT Essentials (cisco)
+  - Linux Essentials (cisco)
 
   En cours : LFCA + KCNA (Linux Foundation)
 
