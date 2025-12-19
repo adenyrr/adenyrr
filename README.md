@@ -44,7 +44,7 @@ J'ai un kink pour la protection des données et l'opensource.
 </div>
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adenyrr&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adenyrr&theme=tokyonight&hide_border=true)
 
 </div>
 
