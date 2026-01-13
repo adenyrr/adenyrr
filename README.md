@@ -67,7 +67,10 @@
 <br/>
 
 ### 📝 Derniers Articles
-<!-- BLOG-POST-LIST:START -->• [Lancement du blog](https://blog.adenyrr.me/blog/lancement/) - DD 000 YYYY<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->### [Lancement du blog](https://blog.adenyrr.me/blog/lancement/)
+Lancement du blog et unification des thèmes
+*Publié le DD/00/YYYY*
+<!-- BLOG-POST-LIST:END -->
 
 <br/>
 
