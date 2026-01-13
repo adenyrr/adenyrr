@@ -1,17 +1,35 @@
-name: Latest blog post workflow
+name: Latest Blog Posts
+
 on:
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
     steps:
-      - uses: actions/checkout@v3
-      - uses: gautamkrishnar/blog-post-workflow@v1
+      - uses: actions/checkout@v4
+      
+      - name: Blog Posts Workflow
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://blog.adenyrr.me/rss.xml"
           max_post_count: 5
-          readme_path: "README.md"
+          template: "• [$title$]($url$) - $date$"
+          
+      - name: Commit Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Updated with latest blog posts" || exit 0
+          
+      - name: Push Changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
