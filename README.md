@@ -20,6 +20,11 @@
 ## 📝 Derniers articles
 
 <!-- BLOG-POST-LIST:START -->
+### ✨ [Lancement du blog](https://blog.adenyrr.me/blog/lancement/)
+
+Lancement du blog et unification des thèmes
+
+🗓️ 10/01/2026
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌟 Projets Principaux
