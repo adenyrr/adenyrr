@@ -19,9 +19,9 @@ jobs:
         with:
           feed_list: "https://blog.adenyrr.me/rss.xml"
           max_post_count: 5
-          template: "$newline- [$title]($url) $newline  *$description* $newline  📅 $date"
+          template: "$newline### ✨ [$title]($url)$newline$newline$description$newline$newline🗓️ $date$newline"          
           date_format: "dd/mm/yyyy"
-          
+
       - name: Commit Changes
         run: |
           git config --local user.email "action@github.com"
