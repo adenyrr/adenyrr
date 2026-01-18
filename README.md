@@ -86,28 +86,28 @@ Lancement du blog et unification des thèmes
 <th>Year</th>
 </tr>
 <tr>
-<td>🏅 <b>IT Essentials</b></td>
+<td>🏅 <b>IT Essentials</b> - Hardware, networking & OS</td>
 <td>Cisco</td>
 <td><img src="https://img.shields.io/badge/IT_Essentials-Done-green?logo=cisco"/></td>
-<td>2023</td>
+<td>2024</td>
 </tr>
 <tr>
-<td>🏅 <b>Linux Essentials</b></td>
-<td>LPI / Cisco</td>
+<td>🏅 <b>Linux Essentials</b> - Linux & OSS</td>
+<td>NDG / Cisco</td>
 <td><img src="https://img.shields.io/badge/Linux_Essentials-Done-green?logo=linux"/></td>
-<td>2024</td>
+<td>2025</td>
 </tr>
 <tr>
 <td>🎯 <b>LFCA</b> - Linux Foundation Certified IT Associate</td>
 <td>Linux Foundation</td>
 <td><img src="https://img.shields.io/badge/LFCA-In_Progress-yellow?logo=linuxfoundation&logoColor=white"/></td>
-<td>2025</td>
+<td>2026</td>
 </tr>
 <tr>
 <td>🎯 <b>KCNA</b> - Kubernetes and Cloud Native Associate</td>
 <td>Linux Foundation</td>
 <td><img src="https://img.shields.io/badge/KCNA-In_Progress-yellow?logo=kubernetes&logoColor=white"/></td>
-<td>2025</td>
+<td>2026</td>
 </tr>
 </table>
 
@@ -117,15 +117,7 @@ Lancement du blog et unification des thèmes
 
 <div align="center">
 
-_" /home sweet /home "_ 🏠
-
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=adenyrr.adenyrr)](https://github.com/adenyrr)
-
-</div>
-
-<div align="center">
-
-_" /home sweet /home "_ 🏠
+" There's no cloud, just someone else's computer ..."
 
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=adenyrr.adenyrr)](https://github.com/adenyrr)
 
