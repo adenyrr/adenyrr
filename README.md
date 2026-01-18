@@ -67,8 +67,8 @@ Lancement du blog et unification des thèmes
 ## 📊 Statistiques
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adenyrr&show_icons=true&theme=radical&hide_border=true" alt="Stats" width="45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adenyrr&theme=radical&hide_border=true" alt="Streak stats" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=adenyrr&show_icons=true&theme=radical&hide_border=true" alt="Stats" width="44%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adenyrr&theme=radical&hide_border=true" alt="Streak stats" width="46%">
 </div>
 
 ## 🎓 Certifications
