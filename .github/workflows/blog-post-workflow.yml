@@ -19,8 +19,8 @@ jobs:
         with:
           feed_list: "https://blog.adenyrr.me/rss.xml"
           max_post_count: 5
-          template: "### [$title]($url)$newline$description$newline*Publié le $date*$newline"
-          date_format: "DD/MM/YYYY"
+          template: "$newline- [$title]($url) $newline  *$description* $newline  📅 $date"
+          date_format: "dd/mm/yyyy"
           
       - name: Commit Changes
         run: |
