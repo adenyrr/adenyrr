@@ -17,7 +17,7 @@ jobs:
       - name: Blog Posts Workflow
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://blog.adenyrr.me/rss.xml"
+          feed_list: "https://adenyrr.me/rss.xml"
           max_post_count: 5
           template: "$newline### ✨ [$title]($url)$newline$newline$description$newline$newline🗓️ $date$newline"          
           date_format: "dd/mm/yyyy"
