@@ -20,7 +20,7 @@
 ## 📝 Derniers articles
 
 <!-- BLOG-POST-LIST:START -->
-### ✨ [Lancement du blog](https://blog.adenyrr.me/blog/lancement/)
+### ✨ [Lancement du blog](https://adenyrr.me/blog/lancement/)
 
 Lancement du blog et unification des thèmes
 
